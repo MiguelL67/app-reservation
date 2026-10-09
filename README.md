@@ -4,7 +4,15 @@ Projet conçu en équipe avec : [Émie]
 
 ## Le problème
 
-- Problème : ...
+- Problème :
+1. trop d'étapes
+2. possible erreur (temp, infos perso, calendrier)
+3. Images du matériels
+4. Description plus détaillé
+5. Inventaire indisponible
+6. Oublie d'aller chercher le matériel
+7. Oublie certains items
+
 - Persona : ...
 
 ## La solution
